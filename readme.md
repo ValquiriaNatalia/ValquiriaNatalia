@@ -1,9 +1,4 @@
 # Olá, eu sou a Valquíria Natália! 👋
-
-<p align="center">
-  <img src="Valquiria_banner.png" alt="Valquíria Natália - Banner Desenvolvedora" width="100%">
-</p>
-
 ## 🚀 Sobre mim
 - 🎓 A frequentar *Análise e Desenvolvimento de Sistemas* na *Uninassau* e *Técnico em Desenvolvimento de Sistemas com Ênfase em Banco de Dados* no *Senac*.
 - 💻 Focada atualmente no domínio de *Bancos de Dados* 📊 e em arquitetura de software.
@@ -28,12 +23,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValquiriaNatalia&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValquiriaNatalia&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
-</p>
