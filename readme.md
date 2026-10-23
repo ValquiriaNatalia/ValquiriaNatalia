@@ -1,7 +1,7 @@
 # Olá, eu sou a Valquíria Natália! 👋
 ## 🚀 Sobre mim
-- 🎓 A frequentar *Análise e Desenvolvimento de Sistemas* na *Uninassau* e *Técnico em Desenvolvimento de Sistemas com Ênfase em Banco de Dados* no *Senac*.
-- 💻 Focada atualmente no domínio de *Bancos de Dados* 📊 e em arquitetura de software.
+- 🎓 Estudante de *Análise e Desenvolvimento de Sistemas* na *Uninassau* e *Técnico em Desenvolvimento de Sistemas com Ênfase em Banco de Dados* no *Senac*.
+- 💻 Focada atualmente no domínio de *Bancos de Dados* 📊 
 - 🐾 Apaixonada por tecnologia, inovação e pela aprendizagem contínua de novas ferramentas!
 - 📫 Entre em contacto comigo: 
   [![E-mail](https://img.shields.io/badge/E--mail-valquirianatalia0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valquirianatalia0@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valquíria_Natália-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valquiria-natalia/)
