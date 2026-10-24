@@ -1,4 +1,4 @@
-# Olá, eu sou a Valquíria Natália! 👋
+# Olá, eu sou  Valquíria Natália! 👋
 ## 🚀 Sobre mim
 - 🎓 Estudante de *Análise e Desenvolvimento de Sistemas* na *Uninassau* e *Técnico em Desenvolvimento de Sistemas com Ênfase em Banco de Dados* no *Senac*.
 - 💻 Focada atualmente no domínio de *Bancos de Dados* 📊 
